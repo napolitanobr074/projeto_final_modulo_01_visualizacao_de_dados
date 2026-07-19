@@ -89,7 +89,7 @@ sns.boxplot(data=df_regiao, x="REGIAO", y="SALARIO")
 plt.title("Salário por Região")
 plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
-plt.savefig("boxplot_regiao.png")
+plt.savefig("sctec_len_boxplot_regiao.png")
 plt.show()
 
 # 09. VAMOS VERIFICAR A OPORTUNIDADE EM IDENTIFICAR OS OUTLIERS

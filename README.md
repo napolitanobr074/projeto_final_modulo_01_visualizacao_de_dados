@@ -54,6 +54,6 @@ Também foi feita uma verificação de outliers pelo método do intervalo interq
 - Cruzar o salário por cidade com índices de custo de vida (dado externo, não   presente no esquema HR), para avaliar se a remuneração é proporcionalmente justa entre localidades.
 
 ## GRAFICOS.
-![Histograma de Salários](histograma_salarios.png)
-![Boxplot por Departamento](boxplot_departamento.png)
-![Boxplot por Região](boxplot_regiao.png)
+![Histograma de Salários](sctec_len_histograma_salarios.png)
+![Boxplot por Departamento](sctec_len_boxplot_departamento.png)
+![Boxplot por Região](sctec_len_boxplot_regiao.png)
